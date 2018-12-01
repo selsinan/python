@@ -4,10 +4,9 @@
 
 <h2>Notebooks</h2>
 
-<ul>
-    
-    <li>PythonRefresher.ipynb - Quick python refresher notes</li>
-</ul>
+ 
+<li>PythonRefresher.ipynb - Quick python refresher notes</li>
+
 
 <h2>How to Run</h2>
 
